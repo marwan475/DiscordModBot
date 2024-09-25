@@ -1,3 +1,3 @@
 # DiscordModBot
 
-Discord Moderator Bot made by twisted Aka Marwan Mostafa
+Discord Moderator Bot made by Marwan Mostafa
